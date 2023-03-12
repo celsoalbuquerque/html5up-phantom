@@ -1,0 +1,23 @@
+{
+  "background_color": "#e0e7eb",
+  "description": "Esse site é para seu progresso fitness",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Sucelsso Fitness",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Sucelsso Fitness",
+  "start_url": "/",
+  "theme_color": "#325978",
+  "categories": [
+    "fitness",
+    "health",
+    "lifestyle",
+    "sports"
+  ],
+  "screenshots": [],
+  "icons": [
+    
+  ],
+  "shortcuts": []
+}
