@@ -1,5 +1,5 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#e4e6ec",
   "description": "Esse é um app para o progresso fitness",
   "dir": "ltr",
   "display": "standalone",
@@ -7,8 +7,8 @@
   "orientation": "portrait",
   "scope": "/",
   "short_name": "Sucelsso Fitness",
-  "start_url": "/",
-  "theme_color": "#ffffff",
+  "start_url": "/https://sucelssofitness.netlify.app/",
+  "theme_color": "#8e9dbb",
   "categories": [
     "education",
     "fitness",
@@ -21,6 +21,6 @@
   "screenshots": [],
   "icons": [],
   "shortcuts": [],
-  "prefer_related_applications": true,
+  "prefer_related_applications": false,
   "lang": "pt"
 }
