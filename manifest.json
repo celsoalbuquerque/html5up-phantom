@@ -56,5 +56,7 @@
     "standalone",
     "window-controls-overlay",
     "fullscreen"
-  ]
+  ],
+  "prefer_related_applications": true
+
 }
