@@ -22,5 +22,8 @@
   "icons": [],
   "shortcuts": [],
   "prefer_related_applications": false,
-  "lang": "pt"
+  "lang": "pt",
+  "display_override": [
+    "fullscreen"
+  ]
 }
