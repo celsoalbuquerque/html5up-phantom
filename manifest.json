@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Sucelsso Fitness",
-  "start_url": "/",
+  "start_url": "index.html",
   "theme_color": "#325978",
   "categories": [
     "fitness",
@@ -16,6 +16,28 @@
     "sports"
   ],
   "screenshots": [],
-  "icons": [],
+  "icons": [
+    {
+      "src": "img/144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "img/1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icon_180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+	  "purpose": "any maskable"
+    }
+  ],
   "shortcuts": []
 }
