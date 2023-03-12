@@ -41,7 +41,8 @@
     {
       "src": "assets/img/icon_180.png",
       "sizes": "180x180",
-      "type": "image/png"
+      "type": "image/png",
+	    "purpose": "any maskable"
     },
     {
       "src": "assets/img/icon_192.png",
