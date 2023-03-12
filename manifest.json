@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "description": "Esse é um app para o progresso fitness",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Sucelsso Fitness",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Sucelsso Fitness",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education",
+    "fitness",
+    "health",
+    "lifestyle",
+    "navigation",
+    "social",
+    "sports"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "prefer_related_applications": true,
+  "lang": "pt"
+}
