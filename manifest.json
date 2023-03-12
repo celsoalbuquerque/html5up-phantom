@@ -36,8 +36,7 @@
     {
       "src": "img/1024.png",
       "sizes": "1024x1024",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "assets/img/icon_180.png",
